@@ -213,7 +213,7 @@
         <mxCell id="IK5fq3_UjL2LdgjUMKt7-99" edge="1" parent="1" source="IK5fq3_UjL2LdgjUMKt7-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="IK5fq3_UjL2LdgjUMKt7-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IK5fq3_UjL2LdgjUMKt7-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Guess again" vertex="1">
+        <mxCell id="IK5fq3_UjL2LdgjUMKt7-96" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" value="Guess again until matched" vertex="1">
           <mxGeometry height="60" width="120" x="648" y="145" as="geometry" />
         </mxCell>
       </root>
