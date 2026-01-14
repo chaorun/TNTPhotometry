@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
+  <diagram name="第 1 页" id="U6wNefkfqEQLcQophKEy">
+    <mxGraphModel dx="1010" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-8" edge="1" parent="1" source="rnJ_FXhBYbbPg_yj5_L4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rnJ_FXhBYbbPg_yj5_L4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calibrated Infrared Frames" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-9" edge="1" parent="1" source="rnJ_FXhBYbbPg_yj5_L4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="rnJ_FXhBYbbPg_yj5_L4-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Select reference source &lt;b&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;S&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-10" edge="1" parent="1" source="rnJ_FXhBYbbPg_yj5_L4-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rnJ_FXhBYbbPg_yj5_L4-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate the shifts between image to reference" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-13" edge="1" parent="1" source="rnJ_FXhBYbbPg_yj5_L4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rnJ_FXhBYbbPg_yj5_L4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-14" edge="1" parent="1" source="rnJ_FXhBYbbPg_yj5_L4-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rnJ_FXhBYbbPg_yj5_L4-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Translate frames to reference pixel grid" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-16" edge="1" parent="1" source="rnJ_FXhBYbbPg_yj5_L4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="rnJ_FXhBYbbPg_yj5_L4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Preliminary Stack" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;text-align: left;&quot;&gt;Aligned datacube&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="80" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="rnJ_FXhBYbbPg_yj5_L4-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate Practical WCS" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
