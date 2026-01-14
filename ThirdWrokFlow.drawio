@@ -1,9 +1,47 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
   <diagram name="第 1 页" id="UFDLzvcnGFbI4GAZmj04">
-    <mxGraphModel>
+    <mxGraphModel dx="777" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Ref source&amp;nbsp;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;S&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;is not an asteroid&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate the ephemeris-based shifts" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Apply ephemeris-based inverse shift" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-9" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate the zeropoint of star stack Image" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-11" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="100" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Produce star-aligned stacked image" vertex="1">
+          <mxGeometry height="60" width="120" x="630" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-15" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate the instrumental mag of asteroid" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="940" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Verify WCS on preliminary stack image" vertex="1">
+          <mxGeometry height="60" width="120" x="160" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Registered image datacube" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Asteroid magnitude" vertex="1">
+          <mxGeometry height="60" width="120" x="250" y="1040" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
