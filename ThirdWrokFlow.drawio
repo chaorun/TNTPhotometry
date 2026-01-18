@@ -1,46 +1,93 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.3.1">
   <diagram name="第 1 页" id="UFDLzvcnGFbI4GAZmj04">
-    <mxGraphModel dx="777" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-26" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_q-Mko6R5dCgeZ51BtZr-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;Ref source&amp;nbsp;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;i&gt;&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;S&amp;nbsp;&lt;/font&gt;&lt;/i&gt;&lt;/b&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;is not an asteroid&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="130" as="geometry" />
+          <mxGeometry height="60" width="120" x="99.95" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="_q-Mko6R5dCgeZ51BtZr-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate the ephemeris-based shifts" vertex="1">
-          <mxGeometry height="60" width="120" x="630" y="280" as="geometry" />
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-35" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_q-Mko6R5dCgeZ51BtZr-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_q-Mko6R5dCgeZ51BtZr-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Apply ephemeris-based inverse shift" vertex="1">
-          <mxGeometry height="60" width="120" x="630" y="370" as="geometry" />
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;b&gt;Add&lt;/b&gt; ephemeris-based shift" vertex="1">
+          <mxGeometry height="60" width="120" x="269.95" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="_q-Mko6R5dCgeZ51BtZr-9" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-19">
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-40" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="_q-Mko6R5dCgeZ51BtZr-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_q-Mko6R5dCgeZ51BtZr-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate the zeropoint of star stack Image" vertex="1">
-          <mxGeometry height="60" width="120" x="330" y="940" as="geometry" />
+          <mxGeometry height="60" width="120" x="99.95" y="410" as="geometry" />
         </mxCell>
         <mxCell id="_q-Mko6R5dCgeZ51BtZr-11" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="100" as="sourcePoint" />
+            <mxPoint x="159.95" y="70" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_q-Mko6R5dCgeZ51BtZr-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Produce star-aligned stacked image" vertex="1">
-          <mxGeometry height="60" width="120" x="630" y="460" as="geometry" />
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-37" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_q-Mko6R5dCgeZ51BtZr-15" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-19">
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Produce asteoid-aligned stacked image" vertex="1">
+          <mxGeometry height="60" width="120" x="269.95" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-41" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_q-Mko6R5dCgeZ51BtZr-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate the instrumental mag of asteroid" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="940" as="geometry" />
+          <mxGeometry height="60" width="120" x="269.95" y="410" as="geometry" />
         </mxCell>
         <mxCell id="_q-Mko6R5dCgeZ51BtZr-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Verify WCS on preliminary stack image" vertex="1">
-          <mxGeometry height="60" width="120" x="160" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="99.95" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-33" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-28">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_q-Mko6R5dCgeZ51BtZr-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Registered image datacube" vertex="1">
-          <mxGeometry height="60" width="120" x="330" y="40" as="geometry" />
+          <mxGeometry height="60" width="120" x="269.95" y="10" as="geometry" />
         </mxCell>
         <mxCell id="_q-Mko6R5dCgeZ51BtZr-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Asteroid magnitude" vertex="1">
-          <mxGeometry height="60" width="120" x="250" y="1040" as="geometry" />
+          <mxGeometry height="60" width="120" x="179.95" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-27" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Select another source as asteroid" vertex="1">
+          <mxGeometry height="60" width="120" x="99.95" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-22" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="19.950000000000003" y="330" />
+              <mxPoint x="19.950000000000003" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-31" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-38" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-21" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Check WCS&amp;nbsp;&lt;div&gt;match?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="99.95" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="No" vertex="1">
+          <mxGeometry height="30" width="60" x="29.950000000000003" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-34" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Calculate the ephemeris-based shifts" vertex="1">
+          <mxGeometry height="60" width="120" x="269.95" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="199.95" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="159.95" y="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
