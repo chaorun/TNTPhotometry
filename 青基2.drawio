@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0" version="29.5.4">
   <diagram name="第 1 页" id="dioUk-3ShFjo_nFlgMSy">
-    <mxGraphModel dx="1122" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1443" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
-          <mxGeometry height="730" width="750" x="39" y="70" as="geometry" />
+          <mxGeometry height="780" width="750" x="39" y="20" as="geometry" />
         </mxCell>
         <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" value="" vertex="1">
           <mxGeometry height="650" width="250" x="39" y="70" as="geometry" />
@@ -94,7 +94,7 @@
         <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-46" edge="1" parent="1" source="0Y_SmMpCoS7ZCY9hpmOV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Y_SmMpCoS7ZCY9hpmOV-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot;&gt;多源误差耦合与传播&lt;/p&gt;" vertex="1">
+        <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot;&gt;多源误差耦合与传播&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;;&quot;&gt;（协方差传播 / 时间相关误差建模）&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="349" y="560" as="geometry" />
         </mxCell>
         <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot;&gt;天体测量误差&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;;&quot;&gt;分析结果&lt;/p&gt;" vertex="1">
@@ -115,7 +115,7 @@
         <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-50" edge="1" parent="1" source="0Y_SmMpCoS7ZCY9hpmOV-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Y_SmMpCoS7ZCY9hpmOV-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot;&gt;目标速度叠加&lt;span class=&quot;s1&quot; style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt; /&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot;&gt;恒星速度叠加&lt;/p&gt;" vertex="1">
+        <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;; text-align: start;&quot;&gt;逐帧坐标校正后&lt;/p&gt;&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;PingFang SC&amp;quot;;&quot;&gt;叠加&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="604" y="320" as="geometry" />
         </mxCell>
         <mxCell id="0Y_SmMpCoS7ZCY9hpmOV-51" edge="1" parent="1" source="0Y_SmMpCoS7ZCY9hpmOV-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0Y_SmMpCoS7ZCY9hpmOV-29">
@@ -183,6 +183,39 @@
             <mxPoint x="310" y="530" as="sourcePoint" />
             <mxPoint x="435" y="450" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P3giOH-Qi9xW3XwgyCRz-1" edge="1" parent="1" source="0Y_SmMpCoS7ZCY9hpmOV-55" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0Y_SmMpCoS7ZCY9hpmOV-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="260" y="320" as="sourcePoint" />
+            <mxPoint x="385" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3giOH-Qi9xW3XwgyCRz-2" edge="1" parent="1" source="0Y_SmMpCoS7ZCY9hpmOV-25" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="604" y="430" as="sourcePoint" />
+            <mxPoint x="469" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3giOH-Qi9xW3XwgyCRz-3" edge="1" parent="1" source="0Y_SmMpCoS7ZCY9hpmOV-29" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0Y_SmMpCoS7ZCY9hpmOV-21" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="635" y="330" as="sourcePoint" />
+            <mxPoint x="500" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3giOH-Qi9xW3XwgyCRz-4" edge="1" parent="1" source="0Y_SmMpCoS7ZCY9hpmOV-28" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="0Y_SmMpCoS7ZCY9hpmOV-58" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="735" y="470" as="sourcePoint" />
+            <mxPoint x="600" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P3giOH-Qi9xW3XwgyCRz-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="标准单帧解算路径" vertex="1">
+          <mxGeometry height="50" width="251" x="39" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P3giOH-Qi9xW3XwgyCRz-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="误差传播与协方差分析" vertex="1">
+          <mxGeometry height="50" width="251" x="289" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="P3giOH-Qi9xW3XwgyCRz-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="暗弱动目标增强路径" vertex="1">
+          <mxGeometry height="50" width="251" x="538" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
