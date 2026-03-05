@@ -32,7 +32,7 @@
         <mxCell id="_q-Mko6R5dCgeZ51BtZr-37" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_q-Mko6R5dCgeZ51BtZr-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Produce asteoid-aligned stacked image" vertex="1">
+        <mxCell id="_q-Mko6R5dCgeZ51BtZr-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Produce asteroid-aligned stacked image" vertex="1">
           <mxGeometry height="60" width="120" x="269.95" y="300" as="geometry" />
         </mxCell>
         <mxCell id="_q-Mko6R5dCgeZ51BtZr-41" edge="1" parent="1" source="_q-Mko6R5dCgeZ51BtZr-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_q-Mko6R5dCgeZ51BtZr-19">
